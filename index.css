@@ -188,7 +188,7 @@ textarea:focus {
 
 @media (min-width: 950px) {
     .wrapper {
-        max-width: 1500px;
+        max-width: 1000px;
         margin: 0 auto;
         display: grid;
         grid-template-columns: 200px 2.5fr;
